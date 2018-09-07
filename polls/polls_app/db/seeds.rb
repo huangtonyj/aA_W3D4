@@ -64,4 +64,6 @@
     
     
     
+    # Response.create({ responder_id: 2 , answer_choice_id: 1})
+    
     
